@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import yfinance as yf
 import plotly.express as px
-from PIL import Image
 
 st.title("Real_Time_Stock_market")
 st.sidebar.title("Please provied the following")
